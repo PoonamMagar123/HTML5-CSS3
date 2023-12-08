@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0);
+}
+.navbar-nav .nav-item .nav-link.contact-btn:hover {
+    background-color: #24ACF2;
+    color: #fff; /* Text color on hover */
+}
+.contact-btn {
+    padding: 10px 24px; /* Padding values */
+    border-radius: 32px; /* Border radius */
+    color: #000; /* Black color */
+    /* color: #fff; White text color */
+    border: 1px solid #000; /* Border style */
+    color: rgb(30 26 26);
+    width: 10rem;
+    text-align: center;
+;
+}
+.btn {
+    width: 250px;
+}
+.btn-group-lg>.btn, .btn-lg{
+    border-radius: 32px;
+    color: white;
+}
+.card-body d-flex flex-column-img, .card-body d-flex flex-column-img-top {
+    width: 50px;
+}
+button.btn.btn-link.indicator-button.btn-primary i.bi.bi-arrow-up-short {
+    color: black;
+}
+
+/* *********icon****** */
+.contact-links a{
+    color: #000;
+}
+.social-icons {
+    font-size: 24px;
+    color: #000; /* Set the color to black */
+    margin-right: 10px; /* Adjust spacing between icons */
+}
+
+.social-icons:hover {
+    color: #e4405f; /* Change color on hover to the Instagram color */
+}
+/* ********footer******* */
+
+.footer{
+    background-color: #E5F0FD;
+    /* text-align: center; */
+    border-radius: 50px;
+    background-color: linear-gradient(261.57deg, rgba(0, 111, 237, 0.12) 18.01%, rgba(179, 214, 255, 0.12) 90.03%) !important;
+    padding: auto;
+}
+
+.footer-section {
+    margin-bottom: 20px;
+}
+  
